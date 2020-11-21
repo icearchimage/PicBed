@@ -9,8 +9,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="48.15086mm"
-   height="27.291315mm"
-   viewBox="0 0 48.150859 27.291314"
+   height="27.621233mm"
+   viewBox="0 0 48.150857 27.621232"
    version="1.1"
    id="svg8"
    sodipodi:docname="sphere coor.svg"
@@ -109,9 +109,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="71.519455"
-     inkscape:cy="66.488925"
+     inkscape:zoom="2.1609427"
+     inkscape:cx="93.340435"
+     inkscape:cy="104.73359"
      inkscape:document-units="mm"
      inkscape:current-layer="id-46a9c332-51a4-4193-a0f9-c9646e7ea8f5"
      inkscape:document-rotation="0"
@@ -212,9 +212,8 @@
            id="path5440"
            cx="-103.98373"
            cy="-178.98976"
-           rx="51.20248"
-           ry="29.428385"
-           transform="matrix(1,0,-0.32394793,0.94607491,0,0)" />
+           transform="matrix(1,0,-0.32394793,0.94607491,0,0)"
+           r="0" />
         <path
            style="fill:none;stroke:#000000;stroke-width:0.953331px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="M -113.4389,-169.33734 H 23.051641"
@@ -352,6 +351,14 @@
              x="-28.801905"
              y="-175.97975"
              style="stroke-width:0.953331">φ:azimuth</tspan></text>
+        <ellipse
+           style="fill:none;stroke:#000000;stroke-width:0.969279;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path913"
+           cx="-99.032715"
+           cy="-177.25989"
+           rx="46.942238"
+           ry="29.918032"
+           transform="matrix(1,0,-0.29949888,0.95409665,0,0)" />
       </g>
     </g>
   </g>
